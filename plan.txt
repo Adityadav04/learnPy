@@ -3,4 +3,12 @@ Day 1-7 (Cover Whole Python)
 DAY 1- Nothing
 signing off!!!
 
-Day 2- learning
+Day 2- learning (python + github nad some git)
+    why python??
+    # its easy to learn as in may way its similar to english language 
+    # easy syntax
+    # to be able to learn AI &ML to make projects as python has a large supporting community.
+    
+    
+    what??
+    * its a high level interpreted language 
